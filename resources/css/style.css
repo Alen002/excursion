@@ -1,1 +1,35 @@
-body {background-color: green;}
+img {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  font-family: Verdana;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+
+}
+
+span {
+  font-size: 21px;
+  color: grey;
+}
+
+#excursion {
+  text-align: right;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
